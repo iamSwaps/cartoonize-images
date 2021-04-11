@@ -1,5 +1,5 @@
 # cartoonize-images
-A program which filters images into cartoon. Build using python
+A program which filters images into cartoon. Built using python
 
 This program uses Opencv library and also Pillow library.
 

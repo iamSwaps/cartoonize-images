@@ -8,4 +8,7 @@ Blurred orginal image is placed as background and the processed image with edges
 Since opencv uses NumPy arrays, the array image had to be converted into into RGB image hence used Pillow library
 
 Please paste file location in 'filename' variable for successful execution.
-Code written using jupyter
+
+NOTE: Opencv should be installed. When program is executed succesfully, a window will pop with processed result image.
+
+Code written using Jupyter notebook
